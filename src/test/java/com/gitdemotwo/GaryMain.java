@@ -1,8 +1,8 @@
 package com.gitdemotwo;
 
-public class GaryBranch {
+public class GaryMain {
     public static void main(String[] args) {
-        GaryBranch obj = new GaryBranch();
+        GaryMain obj = new GaryMain();
         obj.print("Gary");
     }
 
