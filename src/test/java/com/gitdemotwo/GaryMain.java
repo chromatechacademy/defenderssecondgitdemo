@@ -2,6 +2,7 @@ package com.gitdemotwo;
 
 public class GaryMain {
     public static void main(String[] args) {
+
         GaryMain obj = new GaryMain();
         obj.print("Gary");
     }
@@ -11,7 +12,4 @@ public class GaryMain {
         System.out.println(name);
 
     }
-
 }
-
-Test
