@@ -3,3 +3,4 @@ target/
 */target
 /target/
 .ds_store
+*.ds_store
