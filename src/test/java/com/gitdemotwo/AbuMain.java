@@ -9,5 +9,4 @@ public class AbuMain {
     public void print(String name) {
         System.out.println(name);
     }
-
 }
