@@ -3,10 +3,10 @@ package com.gitdemotwo;
 public class SamuelMain {
     public static void main(String[] args){
         SamuelMain obj = new SamuelMain();
-        obj.sammyName("Sammy");
+        obj.print("Sammy");
     }
 
-    public void sammyName(String name){
+    public void print(String name){
         System.out.println(name);;
     }
 }
