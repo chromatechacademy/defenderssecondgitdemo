@@ -7,6 +7,7 @@ public class ShomirTest {
         System.out.println("enter user name");
     }
 
+
     public void enterPassword(){
         System.out.println(" enter password"); 
 

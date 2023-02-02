@@ -4,7 +4,9 @@ public class ShomirMain {
 
     public static void main(String[] args) {
         ShomirMain obj = new ShomirMain(); 
-        obj.print("Mike");
+        obj.print("Shomir");
+    
+
     }
 
     public void print(String name) {
