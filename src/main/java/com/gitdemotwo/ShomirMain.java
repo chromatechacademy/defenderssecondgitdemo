@@ -6,6 +6,7 @@ public class ShomirMain {
         ShomirMain obj = new ShomirMain(); 
         obj.print("Shomir");
     
+
     }
 
     public void print(String name) {
